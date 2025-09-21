@@ -84,7 +84,6 @@ if uploaded_file is not None:
             time.sleep(0.01)  # smoother playback
         
         cap.release()
-        cv2.destroyAllWindows()
         
         st.success("✅ Video processing complete!")
         st.write(f"**Total Objects Detected:** {detected_objects}")
