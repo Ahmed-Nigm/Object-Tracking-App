@@ -114,8 +114,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Ahmed Nigm**
-- GitHub: [[@yourusername](https://github.com/Ahmed-Nigm/Object-Tracking-App)]
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ahmed-nigm/)
+- GitHub: [[Ahmed Nigm](https://github.com/Ahmed-Nigm/Object-Tracking-App)]
+- LinkedIn: [Ahmed Nigm](https://www.linkedin.com/in/ahmed-nigm/)
 
 ## 🙏 Acknowledgments
 
